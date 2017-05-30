@@ -6,4 +6,4 @@ public class FimDeCamera : MonoBehaviour
     {
         CutSceneController.instancia.ProximaCamera();
         }
-}
+}   
